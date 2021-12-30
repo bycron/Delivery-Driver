@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - RedPackage
+  - BluePackage
+  - BrownPackage
+  - BrownCustomer
+  - BlueCustomer
+  - RedCustomer
   layers:
   - Default
   - TransparentFX
